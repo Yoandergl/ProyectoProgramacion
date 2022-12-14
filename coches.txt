@@ -1,0 +1,5 @@
+CA;FDE-789;Toyota;Bueno;Coca-cola;Llenar llantas;5353535;1000
+CA;Drg-6564;Nissan;Bueno;Pepsi;Reparar cilindraje;5353535;1000
+F;AWQ-678;Toyota;Reemplazar;Maria Celeste;Pintar coche;413134;2014
+CR;QWE-6578;Toyota;Reemplazar;Toyota;Llenar llantas;5353535;Dañado
+CR;RTE-6789;Toyota;Bueno;Toyota;Pintar coche;413134;Estable
